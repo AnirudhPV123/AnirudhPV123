@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **SneakEase(e-commerce shoe website)**
 
+- 👯 I’m looking to collaborate on **MERN STACK projects**
+
 - 🌱 I’m currently learning **to write more advanced industry standard code**
 
 - 👨‍💻 All of my projects are available at [https://anirudhpv-portfolio.vercel.app](https://anirudhpv-portfolio.vercel.app)
