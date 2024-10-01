@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **to write more advanced industry standard code**
 
-- 👨‍💻 All of my projects are available at [https://anirudhpv.vercel.app/](https://anirudhpv.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://anirudhpv.vercel.app)
 
 - 💬 Ask me about **MERN**
 
