@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **anirudhpv23@gmail.com**
+- 📫 How to reach me **anirudhpv32@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1-2DtVqSogo7_JBlNOXdc7Pr9NfiPeiHzn0oFPM8EICs/edit](https://docs.google.com/document/d/1-2DtVqSogo7_JBlNOXdc7Pr9NfiPeiHzn0oFPM8EICs/edit)
 
