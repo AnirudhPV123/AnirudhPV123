@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anirudh PV</h1> <h3 align="center">A dedicated MERN Stack developer with a passion for creating scalable web applications</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anirudhpv123&show_icons=true&theme=radical" alt="anirudhpv123's GitHub Stats" /> </p>
+<h1 align="center">Hi 👋, I'm Anirudh PV</h1> <h3 align="center">A dedicated MERN Stack developer with a passion for creating scalable web applications</h3> <p align="center">
 🔭 I’m currently developing SneakEase, an e-commerce platform specializing in shoes.
 
 👯 I’m open to collaborating on full-stack MERN projects to solve real-world problems.
